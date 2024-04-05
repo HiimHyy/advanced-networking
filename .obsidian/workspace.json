@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0961c7a1eac75f98",
@@ -149,8 +148,9 @@
   },
   "active": "28307060c7a72170",
   "lastOpenFiles": [
-    "images/netmiko2.png",
+    "Untitled.md",
     "Diary.md",
+    "images/netmiko2.png",
     "images/netmiko.png",
     "images/netconfpython.png",
     "images/postman.png",
